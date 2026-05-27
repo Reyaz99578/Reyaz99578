@@ -5,7 +5,7 @@ BCA Student | Data Analyst | AI & Machine Learning Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Reyaz99578&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -112,11 +112,11 @@ BCA Student | Data Analyst | AI & Machine Learning Enthusiast
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Reyaz99578&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Reyaz99578&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyaz99578&layout=compact&theme=tokyonight" />
 
 </p>
 
@@ -126,11 +126,11 @@ BCA Student | Data Analyst | AI & Machine Learning Enthusiast
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/reyaz-ansari-b0329a358">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Reyaz99578">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
