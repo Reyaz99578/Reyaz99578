@@ -227,3 +227,9 @@ Business Intelligence dashboard with KPI tracking and executive reporting.
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
+
+
+
+
+portfolio link. 
+ content://com.google.android.apps.docs.storage/document/acc%3D5%3Bdoc%3Dencoded%3DMt8NPWlSHNJAXnaqpuodK6IsFTnBxKLzC4zVtEUzJ2EdGwNuUCpQdw%3D%3D
