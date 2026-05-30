@@ -8,6 +8,63 @@
 
 </div>
 
+
+
+
+
+<h1 align="center">Hi 👋, I'm Reyaz Ansari</h1>
+<h3 align="center">Aspiring Data Analyst | Data Science & AI Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Data+Analyst+Fresher;Data+Science+Enthusiast;AI+%26+Machine+Learning+Learner;Python+Developer" />
+</p>
+
+<hr>
+
+<h2>🚀 About Me</h2>
+
+<ul>
+  <li>🎓 Final Year BCA Student</li>
+  <li>📍 Greater Noida, India</li>
+  <li>📊 Aspiring Data Analyst</li>
+  <li>🤖 Interested in Data Science, AI & Machine Learning</li>
+  <li>🌱 Currently Learning Deep Learning & Model Deployment</li>
+  <li>🎯 Goal: Become a Data Scientist / AI Engineer</li>
+</ul>
+
+<h2>🛠️ Skills</h2>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,mysql" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+</p>
+
+<h2>📈 GitHub Stats</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Reyaz99578&show_icons=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyaz99578&layout=compact" />
+</p>
+
+<h2>🌐 Connect With Me</h2>
+
+<p>
+  <a href="https://github.com/Reyaz99578">GitHub</a> |
+  <a href="https://www.linkedin.com/in/reyaz-ansari-b0329a358">LinkedIn</a>
+</p>
+
+<hr>
+
+<p align="center">
+  <b>⭐ Turning Data into Insights and Ideas into Reality ⭐</b>
+</p>
+
 ---
 
 ## 🚀 About Me
