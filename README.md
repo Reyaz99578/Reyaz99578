@@ -20,6 +20,19 @@
 </p>
 
 <hr>
+<h2>🚀 About Me</h2>
+
+<ul>
+  <li>🎓 Final Year BCA Student</li>
+  <li>📍 Greater Noida, India</li>
+  <li>📊 Aspiring Data Analyst</li>
+  <li>🤖 Interested in Data Science, AI & Machine Learning</li>
+  <li>🌱 Currently Learning Deep Learning & Model Deployment</li>
+  <li>🎯 Goal: Become a Data Scientist / AI Engineer</li>
+</ul>
+
+<h2>🛠️ Skills</h2>
+
 
 
 <p>
