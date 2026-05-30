@@ -231,5 +231,3 @@ Business Intelligence dashboard with KPI tracking and executive reporting.
 
 
 
-portfolio link. 
- content://com.google.android.apps.docs.storage/document/acc%3D5%3Bdoc%3Dencoded%3DMt8NPWlSHNJAXnaqpuodK6IsFTnBxKLzC4zVtEUzJ2EdGwNuUCpQdw%3D%3D
