@@ -127,18 +127,6 @@ me.say_hi()
 </td>
 <td width="50%">
 
-### 📊 DSA Topics
-- Arrays, Linked Lists, Stacks, Queues
-- Trees & Binary Search Trees
-- Graphs (BFS, DFS)
-- Sorting & Searching
-- Dynamic Programming
-- Recursion & Backtracking
-- Time & Space Complexity (Big O)
-
-</td>
-</tr>
-</table>
 
 ---
 
