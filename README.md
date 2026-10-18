@@ -1,279 +1,84 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Reyaz%20Ansari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=BCA%20Student%20%7C%20Data%20Analyst%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=53&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Reyaz%20Ansari&fontSize=42&fontColor=fff&desc=BCA%202026%20%7C%20QA%20%26%20Data%20Enthusiast&descAlignY=53"/>
 
-<img src="https://komarev.com/ghpvc/?username=Reyaz99578&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/Reyaz99578?label=Followers&style=for-the-badge&color=0e75b6" />
+### BCA 2026 Graduate | QA Intern Aspirant | Python · SQL · Data Analysis
+
+📍 Greater Noida, India
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reyaz-ansari-b0329a358)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reyaz99578@gmail.com)
 
 </div>
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Reyaz Ansari</h1>
-<h3 align="center">Aspiring Data Analyst | Data Science & AI Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Data+Analyst+Fresher;Data+Science+Enthusiast;AI+%26+Machine+Learning+Learner;Python+Developer" />
-</p>
-
-<hr>
-<h2>🚀 About Me</h2>
-
-<ul>
-  <li>🎓 Final Year BCA Student</li>
-  <li>📍 Greater Noida, India</li>
-  <li>📊 Aspiring Data Analyst</li>
-  <li>🤖 Interested in Data Science, AI & Machine Learning</li>
-  <li>🌱 Currently Learning Deep Learning & Model Deployment</li>
-  <li>🎯 Goal: Become a Data Scientist / AI Engineer</li>
-</ul>
-
-<h2>🛠️ Skills</h2>
-
-
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,mysql" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-</p>
-
-<h2>📈 GitHub Stats</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Reyaz99578&show_icons=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyaz99578&layout=compact" />
-</p>
-
-<h2>🌐 Connect With Me</h2>
-
-<p>
-  <a href="https://github.com/Reyaz99578">GitHub</a> |
-  <a href="https://www.linkedin.com/in/reyaz-ansari-b0329a358">LinkedIn</a>
-</p>
-
-<hr>
-
-<p align="center">
-  <b>⭐ Turning Data into Insights and Ideas into Reality ⭐</b>
-</p>
 
 ---
 
 ## 🚀 About Me
 
-```python
-class ReyazAnsari:
-    def __init__(self):
-        self.name       = "Reyaz Ansari"
-        self.degree     = "Bachelor of Computer Applications (BCA)"
-        self.location   = "Greater Noida, India"
-        self.goal       = "Data Scientist / AI Engineer"
-        self.languages  = ["Python", "Java", "C++", "JavaScript", "SQL"]
-        self.interests  = ["Data Science", "Machine Learning", "Deep Learning", "AI"]
-        self.currently  = "Learning Deep Learning & Model Deployment"
-
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something amazing 🚀")
-
-me = ReyazAnsari()
-me.say_hi()
-```
+- 🎓 BCA (2026) graduate, looking for a **QA Intern / Junior QA** role
+- 🧪 Comfortable with manual testing, API testing, test cases and bug reporting
+- 🐍 Write Python automation tests with **pytest** and query data with **SQL**
+- 📊 Also build data analysis and ML projects, deployed on Streamlit
+- 🌱 Currently learning deep learning and model deployment
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-### 💻 Programming Languages
-<p align="left">
+**Testing & QA**
+
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-4CAF50?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API%20Testing-FF6C37?style=for-the-badge)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Languages & Databases**
+
 <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,mysql" />
-</p>
 
-### 🤖 AI / ML & Deep Learning
-<p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
+**Data & ML**
 
-### 🔧 Tools & Platforms
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
-</p>
-
----
-
-## 📐 Core CS Fundamentals
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧩 OOP Concepts
-| Concept | Languages |
-|---|---|
-| Classes & Objects | Python, Java, C++ |
-| Inheritance | Python, Java, C++ |
-| Polymorphism | Python, Java, C++ |
-| Encapsulation | Python, Java, C++ |
-| Abstraction | Python, Java, C++ |
-
-</td>
-<td width="50%">
-
-
----
-
-## 🌐 Web Technologies
-
-<p align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
-
----
-
-## 📊 Data Analytics & Visualization
-
-<p align="left">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
----
-
-## 🤖 Machine Learning Skills
-
-<p align="left">
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LSTM-Deep%20Learning-orange?style=for-the-badge"/>
-</p>
-
-**Techniques:** Classification · Regression · Clustering · NLP · Time-Series · Data Preprocessing · Feature Engineering · Model Evaluation
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 📈 Stock Market Price Prediction
-![ML](https://img.shields.io/badge/Deep%20Learning-LSTM-blueviolet?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=flat-square)
-
-Real-time stock price prediction using LSTM neural networks and live Yahoo Finance data.
-
-**Highlights:**
-- LSTM model with **~92–95% R² accuracy**
-- 50 / 100 / 200-day Moving Averages
-- Original vs Predicted price chart
-- Deployed on Streamlit
-
-🔗 [View Project](https://github.com/Reyaz99578/stock-market-price-prediction)
-
-</td>
-<td width="33%" valign="top">
-
-### 💬 Customer Sentiment Analysis
-![NLP](https://img.shields.io/badge/NLP-Scikit--Learn-orange?style=flat-square)
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square)
-
-NLP-based ML project to classify customer reviews as Positive, Negative, or Neutral.
-
-**Highlights:**
-- Text cleaning & preprocessing
-- ML classification model
-- Sentiment: Positive / Negative / Neutral
-- Visualized results with Matplotlib
-
-</td>
-<td width="33%" valign="top">
-
-### 📊 E-Commerce Analytics Dashboard
-![PowerBI](https://img.shields.io/badge/Power%20BI-yellow?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-blue?style=flat-square)
-
-Business Intelligence dashboard with KPI tracking and executive reporting.
-
-**Highlights:**
-- Power BI dashboards with KPI cards
-- SQL: JOIN, GROUP BY, Subqueries
-- Excel Pivot Tables & XLOOKUP
-- Actionable business insights
-
-</td>
-</tr>
-</table>
+| Project | What it does | Tech | Links |
+|---|---|---|---|
+| 💬 **WhatsApp Chat Analyzer** | Turns an exported chat into stats, timelines, heatmaps, word cloud and emoji analysis. Parser covered by pytest tests. | Python, Pandas, Streamlit, Pytest | [Code](https://github.com/Reyaz99578/whatsapp-chat-analyzer) · [Live](https://YOUR-APP.streamlit.app) |
+| 🏅 **Olympics Analysis** | Interactive dashboard of Olympic medals, countries and athletes. | Python, Pandas, Streamlit | [Code](https://github.com/Reyaz99578/olympics-analysis) · [Live](https://YOUR-APP.streamlit.app) |
+| 📈 **Stock Price Prediction** | LSTM model on live Yahoo Finance data, ~92–95% R², 50/100/200-day moving averages. | LSTM, TensorFlow, Streamlit | [Code](https://github.com/Reyaz99578/stock-market-price-prediction) |
+| 📊 **E-Commerce Analytics Dashboard** | KPI dashboards and SQL analysis for business insights. | Power BI, SQL, Excel | [Code](ADD_LINK) |
 
 ---
 
 ## 🏆 Certifications
 
-<p align="left">
-<img src="https://img.shields.io/badge/Python%20for%20Data%20Science-NPTEL-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Visualisation-Tata%20%7C%20Forage-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative%20AI%20Essentials-TCS%20iON-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-Simplilearn-green?style=for-the-badge"/>
-</p>
+![NPTEL](https://img.shields.io/badge/Python%20for%20Data%20Science-NPTEL-blue?style=for-the-badge)
+![Forage](https://img.shields.io/badge/Data%20Visualisation-Tata%20%7C%20Forage-purple?style=for-the-badge)
+![TCS](https://img.shields.io/badge/Generative%20AI%20Essentials-TCS%20iON-orange?style=for-the-badge)
+![Simplilearn](https://img.shields.io/badge/Data%20Analysis-Simplilearn-green?style=for-the-badge)
 
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Reyaz99578&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Reyaz99578&theme=tokyonight&hide_border=true" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyaz99578&layout=compact&theme=tokyonight&hide_border=true" />
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Reyaz99578&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyaz99578&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
-
-## 📫 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/reyaz-ansari-b0329a358">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Reyaz99578">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:reyaz99578@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
-## ⚡ Fun Fact
-
-> 💡 *"Data is the new oil, but insights are the real fuel."*
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<b>Turning data into insights, and bugs into fixes.</b>
 </div>
-
-
-
-
